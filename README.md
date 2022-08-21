@@ -1,4 +1,4 @@
-# demo-cart
+# shoppingCart
 
 ## Project setup
 ```
